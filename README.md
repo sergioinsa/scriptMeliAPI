@@ -20,10 +20,9 @@ chmod +x itemsIdSeller.sh
 
 ###Algunos Id's de Prueba.
 
-179571326
-181916466
-102892797
-181916466
-215299808
+* 179571326 Tienda Mercado Libre.
+* 143125485 Fravega.
+* 181916466 Rusty.
+* 179579764 Naldo Lombardi.
 
 
